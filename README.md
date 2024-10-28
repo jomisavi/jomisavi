@@ -34,6 +34,15 @@
         <span><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></span>
     </div>
 </section>
+<section>
+   <h2>Proyectos</h2>
+   <div>
+      <dl>
+         <dt>Aplicación web</dt>
+         <dd>Una aplicación web desarrollada para la distribuidora "Trejo's" como proyecto integrador de 3er cuatrimestre. En colaboración con Cristian David Cervantes Barragán y Teresa Isabel Trejo Hernández</dd>
+      </dl>
+   </div>
+</section>
 <!--
 **jomisavi/jomisavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
