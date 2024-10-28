@@ -1,19 +1,3 @@
-<style>
-    .tags {
-    margin-top: 10px;
-}
-
-.tag {
-    display: inline-block;
-    background-color: #007BFF;
-    color: white;
-    padding: 5px 10px;
-    margin: 5px;
-    border-radius: 15px;
-    font-size: 0.9em;
-}
-
-</style>
 <div align="center">
     <h1 align="center"> Hola, soy José Miguel 🙌</h1>
 </div>
