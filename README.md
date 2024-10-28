@@ -10,13 +10,13 @@
 </div>
 <section id="sobre-mi">
     <h2>Sobre mí</h2>
-    <p>Técnico superior en tecnologías de la información con conocimientos en Marketing Digital, Diseño Grafico, Desarrollo de aplicaciones progresivas y Desarrollo de videojuegos, desarrollados a traves de proyectos personales.</p>
     <div class="tags">
-        <span class="tag">Creativo</span>
-        <span class="tag">Colaborador</span>
-        <span class="tag">Proactivo</span>
-        <span class="tag">Aprendizaje continuo</span>
+        <span class="tag">Marketing</span>
+        <span class="tag">Diseño Gráfico</span>
+        <span class="tag">Desarrollo de software</span>
     </div>
+    <p>Técnico superior en tecnologías de la información con conocimientos en Marketing Digital, Diseño Gráfico, Desarrollo de aplicaciones progresivas y Desarrollo de videojuegos, desarrollados a traves de proyectos personales.</p>
+    
 </section>
 <!--
 **jomisavi/jomisavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
