@@ -1,8 +1,11 @@
 <div align="center">
-    <h1 align="center"> Hola, soy Jose Miguel 🙌</h1>
+    <h1 align="center"> Hola, soy José Miguel 🙌</h1>
 </div>
 <div>
     <p align="center"> <img src="https://github.com/jomisavi/jomisavi/blob/main/Banner.png" /> </p>
+</div>
+<div>
+    <h1>Soy</h1>
 </div>
 <!--
 **jomisavi/jomisavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
