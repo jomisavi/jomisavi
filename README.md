@@ -8,7 +8,7 @@
     <p align="center"> <img src="https://github.com/jomisavi/jomisavi/blob/main/CV.png" /> </p>
     <h1></h1>
 </div>
-<section id="sobre-mi">
+<section>
     <h2>Sobre mí</h2>
     <div class="tags">
         <span class="tag">Marketing</span>
