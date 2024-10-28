@@ -5,7 +5,8 @@
     <p align="center"> <img src="https://github.com/jomisavi/jomisavi/blob/main/Banner.png" /> </p>
 </div>
 <div>
-    <h1>Soy</h1>
+    <p align="center"> <img src="https://github.com/jomisavi/jomisavi/blob/main/CV.png" /> </p>
+    <h1></h1>
 </div>
 <!--
 **jomisavi/jomisavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
