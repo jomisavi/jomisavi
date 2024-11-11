@@ -64,22 +64,14 @@
          <dd>Una aplicación web desarrollada para la distribuidora "Trejo's" como proyecto integrador de 3er cuatrimestre. En colaboración con Cristian David Cervantes Barragán y Teresa Isabel Trejo Hernández.</dd>
          <dt>Aplicación de Realidad Aumentada 📱</dt>
          <dd>Desarrollada para el centro de información de la Universidad Tecnológica de Tlaxcala con el fin de informar a los alumnos de nuevo ingreso sobre la función y áreas del centro de información en la Universidad Tecnológica de Tlaxcala. En colaboración con Itzman Leonel Heredia Manrique y Cristian David Cervantes Barragán.</dd>
-          <dt>Aplicación de Virtual 👓</dt>
-         <dd>Desarrollada como proyecto grupal con el fin de dar a conocer sitios turísticos en el estado de Tlaxcala, México.</dd>
+        <dt>Aplicación de Realidad Virtual 👓</dt>
+             <dd>Desarrollada como proyecto grupal con el fin de dar a conocer sitios turísticos en el estado de Tlaxcala, México.</dd>
+        <dt>Aplicación Móvil 📱</dt>
+             <dd>Desarrollada para "La chulada". Un negocio de comida rápida que necesitaba de una forma rápida para generar pedidos y más funciones a través de una aplicación móvil.</dd>
+        <dt>Proyecto de Marketing para Estadía 🎨</dt>
+             <dd>El objetivo principal del proyecto fue elaborar e implementar una campaña de mercadotecnia que permitiera el aumento en la visibilidad y reconocimiento de la empresa SAGEMIC COMERCIO.</dd>
+          <dt>Videojuego "The Gap"</dt>
+             <dd>Desarrollo de un videojuego de terror en primera persona ambientado en la Universidad Tecnológica de Tlaxcala.</dd>
       </dl>
    </div>
 </section>
-<!--
-**jomisavi/jomisavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
