@@ -61,7 +61,7 @@
    <div>
       <dl>
          <dt>Aplicación web 🌐</dt>
-         <dd>Una aplicación web desarrollada para la distribuidora "Trejo's" como proyecto integrador de 3er cuatrimestre. En colaboración con Cristian David Cervantes Barragán y Teresa Isabel Trejo Hernández.</dd>
+         <dd>Una aplicación web desarrollada para la distribuidora "Trejo's" como proyecto integrador de tercer cuatrimestre. En colaboración con Cristian David Cervantes Barragán y Teresa Isabel Trejo Hernández.</dd>
          <dt>Aplicación de Realidad Aumentada 📱</dt>
          <dd>Desarrollada para el centro de información de la Universidad Tecnológica de Tlaxcala con el fin de informar a los alumnos de nuevo ingreso sobre la función y áreas del centro de información en la Universidad Tecnológica de Tlaxcala. En colaboración con Itzman Leonel Heredia Manrique y Cristian David Cervantes Barragán.</dd>
         <dt>Aplicación de Realidad Virtual 👓</dt>
