@@ -67,11 +67,11 @@
         <dt>Aplicación de Realidad Virtual 👓</dt>
              <dd>Desarrollada como proyecto grupal con el fin de dar a conocer sitios turísticos en el estado de Tlaxcala, México.</dd>
         <dt>Aplicación Móvil 📱</dt>
-             <dd>Desarrollada para "La chulada". Un negocio de comida rápida que necesitaba de una forma rápida para generar pedidos y más funciones a través de una aplicación móvil.</dd>
+             <dd>Desarrollada para "La chulada". Un negocio de comida rápida que necesitaba de una forma rápida para generar pedidos y más funciones a través de una aplicación móvil. En colaboracuón con Cristian David Cervantes Barragán y Teresa Isabel Trejo Hernanández.</dd>
         <dt>Proyecto de Marketing para Estadía 🎨</dt>
              <dd>El objetivo principal del proyecto fue elaborar e implementar una campaña de mercadotecnia que permitiera el aumento en la visibilidad y reconocimiento de la empresa SAGEMIC COMERCIO.</dd>
           <dt>Videojuego "The Gap" 🎮</dt>
-             <dd>Desarrollo de un videojuego de terror en primera persona ambientado en la Universidad Tecnológica de Tlaxcala.</dd>
+             <dd>Desarrollo grupal de un videojuego de terror en primera persona ambientado en la Universidad Tecnológica de Tlaxcala.</dd>
       </dl>
    </div>
 </section>
