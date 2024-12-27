@@ -4,10 +4,6 @@
 <div>
     <p align="center"> <img src="https://github.com/jomisavi/jomisavi/blob/main/Banner.png" /> </p>
 </div>
-<div>
-    <p align="center"> <img src="https://github.com/jomisavi/jomisavi/blob/main/CV.png" /> </p>
-    <h1></h1>
-</div>
 <section>
     <h2>Sobre mí 💫</h2>
     <p>Técnico superior en tecnologías de la información con conocimientos en Marketing Digital, Diseño Gráfico, Desarrollo de aplicaciones progresivas y Desarrollo de videojuegos, desarrollados a traves de proyectos personales.</p>   
